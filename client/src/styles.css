@@ -1,0 +1,16 @@
+.app-header {
+    text-align: center;
+    background-color: #343a40; /* Dark background */
+    color: #ffffff; /* White text */
+    padding: 20px 0;
+    margin-bottom: 20px;
+    border-radius: 5px; /* Optional for rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional for shadow effect */
+  }
+  
+  .app-header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+  }
+  
